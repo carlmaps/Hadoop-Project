@@ -1,0 +1,516 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ArtifactsWorkspaceSettings">
+    <artifacts-to-build>
+      <artifact name="KafkaSparkStreaming:jar" />
+    </artifacts-to-build>
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="13b3ff7a-4605-4c36-9f72-6ab7c589e956" name="Default Changelist" comment="" />
+    <ignored path="$PROJECT_DIR$/out/" />
+    <ignored path="$PROJECT_DIR$/target/" />
+    <ignored path="$PROJECT_DIR$/project/project/target/" />
+    <ignored path="$PROJECT_DIR$/project/target/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ExternalProjectsData">
+    <projectState path="$PROJECT_DIR$">
+      <ProjectState />
+    </projectState>
+  </component>
+  <component name="ExternalProjectsManager">
+    <system id="SBT">
+      <state>
+        <projects_view>
+          <tree_state>
+            <expand>
+              <path>
+                <item name="" type="6a2764b6:ExternalProjectsStructure$RootNode" />
+                <item name="KafkaSparkStreaming" type="f1a62948:ProjectNode" />
+              </path>
+              <path>
+                <item name="" type="6a2764b6:ExternalProjectsStructure$RootNode" />
+                <item name="KafkaSparkStreaming" type="f1a62948:ProjectNode" />
+                <item name="KafkaSparkStreaming" type="2d1252cf:ModuleNode" />
+              </path>
+              <path>
+                <item name="" type="6a2764b6:ExternalProjectsStructure$RootNode" />
+                <item name="KafkaSparkStreaming" type="f1a62948:ProjectNode" />
+                <item name="KafkaSparkStreaming" type="2d1252cf:ModuleNode" />
+                <item name="sbt commands" type="5c424813:SbtViewContributor$SbtCommandsGroupNode" />
+              </path>
+              <path>
+                <item name="" type="6a2764b6:ExternalProjectsStructure$RootNode" />
+                <item name="KafkaSparkStreaming" type="f1a62948:ProjectNode" />
+                <item name="KafkaSparkStreaming" type="2d1252cf:ModuleNode" />
+                <item name="sbt tasks" type="d9357504:SbtViewContributor$SbtTasksGroupNode" />
+              </path>
+              <path>
+                <item name="" type="6a2764b6:ExternalProjectsStructure$RootNode" />
+                <item name="KafkaSparkStreaming" type="f1a62948:ProjectNode" />
+                <item name="KafkaSparkStreaming-build" type="2d1252cf:ModuleNode" />
+              </path>
+              <path>
+                <item name="" type="6a2764b6:ExternalProjectsStructure$RootNode" />
+                <item name="KafkaSparkStreaming" type="f1a62948:ProjectNode" />
+                <item name="KafkaSparkStreaming-build" type="2d1252cf:ModuleNode" />
+                <item name="Dependencies" type="6de06a37:ExternalSystemViewDefaultContributor$MyDependenciesNode" />
+              </path>
+            </expand>
+            <select />
+          </tree_state>
+        </projects_view>
+      </state>
+    </system>
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/main/scala/KafkaStream.scala">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="339">
+              <caret line="39" lean-forward="true" selection-start-line="39" selection-end-line="39" />
+              <folding>
+                <element signature="e#1#56#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/build.sbt">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="61">
+              <caret line="28" selection-start-line="28" selection-end-line="28" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>kafkaTopic</find>
+    </findStrings>
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/.idea/modules/KafkaSparkStreaming.iml" />
+        <option value="$PROJECT_DIR$/src/main/scala/scriptFile.scala" />
+        <option value="$PROJECT_DIR$/scriptFile.scala" />
+        <option value="$PROJECT_DIR$/src/main/scala/hive-site" />
+        <option value="$PROJECT_DIR$/src/main/conf/scriptFile.scala" />
+        <option value="$PROJECT_DIR$/src/main/conf/core-site.xml" />
+        <option value="$PROJECT_DIR$/src/main/conf/core-site" />
+        <option value="$PROJECT_DIR$/src/main/conf/hdfs-site" />
+        <option value="$PROJECT_DIR$/src/main/conf/hive-site" />
+        <option value="$PROJECT_DIR$/build.sbt" />
+        <option value="$PROJECT_DIR$/src/main/scala/KafkaStream.scala" />
+      </list>
+    </option>
+  </component>
+  <component name="MavenProjectNavigator">
+    <treeState>
+      <expand />
+      <select />
+    </treeState>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="7">
+    <option name="y" value="25" />
+    <option name="width" value="1274" />
+    <option name="height" value="718" />
+  </component>
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="KafkaSparkStreaming" type="b2602c69:ProjectViewProjectNode" />
+              <item name="KafkaSparkStreaming" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="KafkaSparkStreaming" type="b2602c69:ProjectViewProjectNode" />
+              <item name="KafkaSparkStreaming" type="462c0819:PsiDirectoryNode" />
+              <item name="project" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="KafkaSparkStreaming" type="b2602c69:ProjectViewProjectNode" />
+              <item name="KafkaSparkStreaming" type="462c0819:PsiDirectoryNode" />
+              <item name="project" type="462c0819:PsiDirectoryNode" />
+              <item name="project" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="KafkaSparkStreaming" type="b2602c69:ProjectViewProjectNode" />
+              <item name="KafkaSparkStreaming" type="462c0819:PsiDirectoryNode" />
+              <item name="spark-warehouse" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="KafkaSparkStreaming" type="b2602c69:ProjectViewProjectNode" />
+              <item name="KafkaSparkStreaming" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="KafkaSparkStreaming" type="b2602c69:ProjectViewProjectNode" />
+              <item name="KafkaSparkStreaming" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="KafkaSparkStreaming" type="b2602c69:ProjectViewProjectNode" />
+              <item name="KafkaSparkStreaming" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="conf" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="Scope" />
+      <pane id="PackagesPane" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1620763294099" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/src/main/conf" />
+    <property name="project.structure.last.edited" value="Libraries" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="configurable.group.tools" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src/main/conf" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager">
+    <configuration name="KafkaStream" type="Application" factoryName="Application" temporary="true">
+      <option name="INCLUDE_PROVIDED_SCOPE" value="true" />
+      <option name="MAIN_CLASS_NAME" value="KafkaStream" />
+      <module name="KafkaSparkStreaming" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.KafkaStream" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SbtLocalSettings">
+    <option name="availableProjects">
+      <map>
+        <entry>
+          <key>
+            <ExternalProjectPojo>
+              <option name="name" value="KafkaSparkStreaming" />
+              <option name="path" value="$PROJECT_DIR$" />
+            </ExternalProjectPojo>
+          </key>
+          <value>
+            <list>
+              <ExternalProjectPojo>
+                <option name="name" value="kafkasparkstreaming [file:/home/cloudera/IdeaProjects/KafkaSparkStreaming/]" />
+                <option name="path" value="$PROJECT_DIR$" />
+              </ExternalProjectPojo>
+              <ExternalProjectPojo>
+                <option name="name" value="KafkaSparkStreaming-build" />
+                <option name="path" value="$PROJECT_DIR$/project" />
+              </ExternalProjectPojo>
+            </list>
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="modificationStamps">
+      <map>
+        <entry key="$PROJECT_DIR$/build.sbt" value="1375628901" />
+        <entry key="$PROJECT_DIR$/project/KafkaStream.scala" value="1959044219" />
+        <entry key="$PROJECT_DIR$/project/build.properties" value="222117286" />
+      </map>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="13b3ff7a-4605-4c36-9f72-6ab7c589e956" name="Default Changelist" comment="" />
+      <created>1620278381137</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1620278381137</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="TodoView">
+    <todo-panel id="selected-file">
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="true" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-2" y="25" width="2564" height="1409" extended-state="7" />
+    <layout>
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.21644162" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Image Layers" order="2" />
+      <window_info id="Designer" order="3" />
+      <window_info id="Capture Tool" order="4" />
+      <window_info id="UI Designer" order="5" />
+      <window_info id="Favorites" order="6" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.47278383" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" weight="0.32970452" />
+      <window_info anchor="bottom" id="Version Control" order="7" />
+      <window_info anchor="bottom" id="sbt-shell-toolwindow" order="8" weight="0.32037324" />
+      <window_info anchor="bottom" id="Terminal" order="9" weight="0.32970452" />
+      <window_info anchor="bottom" id="Event Log" order="10" side_tool="true" />
+      <window_info anchor="bottom" id="Build" order="11" weight="0.32970452" />
+      <window_info anchor="bottom" id="Messages" order="12" weight="0.32970452" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.24980143" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Palette" order="3" />
+      <window_info anchor="right" id="Capture Analysis" order="4" />
+      <window_info anchor="right" id="Theme Preview" order="5" />
+      <window_info anchor="right" id="Palette&#9;" order="6" />
+      <window_info anchor="right" id="Maven" order="7" weight="0.14535345" />
+      <window_info anchor="right" id="sbt" order="8" visible="true" weight="0.17831613" />
+    </layout>
+    <layout-to-restore>
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.21485306" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Image Layers" order="2" />
+      <window_info id="Designer" order="3" />
+      <window_info id="Capture Tool" order="4" />
+      <window_info id="UI Designer" order="5" />
+      <window_info id="Favorites" order="6" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.41057542" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" weight="0.32970452" />
+      <window_info anchor="bottom" id="Version Control" order="7" />
+      <window_info anchor="bottom" id="sbt-shell-toolwindow" order="8" weight="0.32037324" />
+      <window_info anchor="bottom" id="Terminal" order="9" weight="0.32970452" />
+      <window_info anchor="bottom" id="Event Log" order="10" side_tool="true" />
+      <window_info anchor="bottom" id="Build" order="11" weight="0.32970452" />
+      <window_info anchor="bottom" id="Messages" order="12" weight="0.32970452" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.24980143" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Palette" order="3" />
+      <window_info anchor="right" id="Capture Analysis" order="4" />
+      <window_info anchor="right" id="Theme Preview" order="5" />
+      <window_info anchor="right" id="Palette&#9;" order="6" />
+      <window_info anchor="right" id="Maven" order="7" weight="0.14535345" />
+      <window_info anchor="right" id="sbt" order="8" weight="0.17831613" />
+    </layout-to-restore>
+  </component>
+  <component name="antWorkspaceConfiguration">
+    <option name="IS_AUTOSCROLL_TO_SOURCE" value="false" />
+    <option name="FILTER_TARGETS" value="false" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/src/outputFile/part-00000-8d3c7fd8-1bac-4101-80b2-9d7a1dc4721d-c000.csv" />
+    <entry file="file://$PROJECT_DIR$/src/outputFile/part-00000-9b94de31-c8f9-4b18-9b8a-95906003ac0a-c000.csv" />
+    <entry file="file://$PROJECT_DIR$/src/outputFile/part-00000-9d34192c-b187-48f8-aa04-5bc24aad721f-c000.csv" />
+    <entry file="file://$PROJECT_DIR$/src/outputFile/part-00000-fcde86d2-25da-4943-bda8-1501e2839563-c000.csv" />
+    <entry file="file://$PROJECT_DIR$/src/outputFile/part-00000-9f90be64-8368-415f-a8bf-641fffe1ddf1-c000.csv" />
+    <entry file="file://$PROJECT_DIR$/src/outputFile/part-00000-d7975b10-42bc-4183-a4f9-27df2f21e58f-c000.csv" />
+    <entry file="file://$PROJECT_DIR$/src/outputFile/part-00000-0c72d8a0-d0db-4685-aa4c-ddc7cb37007c-c000.csv" />
+    <entry file="file://$PROJECT_DIR$/src/outputFile/part-00000-0df7333a-7fd7-4728-b4b7-aab892f6cfa5-c000.csv" />
+    <entry file="file://$PROJECT_DIR$/src/outputFile/part-00000-0e4c8656-cefe-463b-bcf9-0f1ea5e45da5-c000.csv" />
+    <entry file="file://$PROJECT_DIR$/src/outputFile/part-00000-0fce54df-652f-4a73-bd38-e22b6d909335-c000.csv" />
+    <entry file="file://$PROJECT_DIR$/src/outputFile/part-00000-2e4a7c83-637d-4f23-ac4f-4dcbf388ff69-c000.csv" />
+    <entry file="file://$PROJECT_DIR$/src/outputFile/part-00000-3d7903cd-849c-4aab-be4b-762308ad3dfa-c000.csv" />
+    <entry file="file://$PROJECT_DIR$/src/outputFile/part-00000-5afe50b4-93b1-48f9-8fbe-4127b0fd9d24-c000.csv" />
+    <entry file="file://$PROJECT_DIR$/src/outputFile/part-00000-5e3b1160-ba3b-4ff6-b674-317eddb4f615-c000.csv" />
+    <entry file="file://$PROJECT_DIR$/src/outputFile/part-00000-6da35aef-1aec-4df3-a743-3e691d50008e-c000.csv" />
+    <entry file="file://$PROJECT_DIR$/src/outputFile/part-00000-6fe00d44-b719-4ad0-9c03-bd152758a7d4-c000.csv" />
+    <entry file="file://$PROJECT_DIR$/src/outputFile/part-00000-7fd6f8e9-d891-4058-b41d-c6a6eaff0390-c000.csv" />
+    <entry file="file://$PROJECT_DIR$/src/outputFile/part-00000-9bfdbd1b-37c2-4a5d-bd12-dbe522671073-c000.csv" />
+    <entry file="file://$PROJECT_DIR$/src/outputFile/part-00000-9c5c3b89-6b2b-4df8-b0eb-f9cf42947f9a-c000.csv" />
+    <entry file="file://$PROJECT_DIR$/src/outputFile/part-00000-38a6ddef-ee6f-4e49-b4d3-81d1700d411e-c000.csv" />
+    <entry file="file://$PROJECT_DIR$/src/outputFile/part-00000-56d8a586-8a8b-4ec8-b439-856c03f20416-c000.csv" />
+    <entry file="file://$PROJECT_DIR$/src/outputFile/part-00000-62f6b081-7ae4-4a9d-888e-56d21a6b7694-c000.csv" />
+    <entry file="file://$PROJECT_DIR$/src/outputFile/part-00000-92e7889d-27b0-4e80-9040-f98e272d1c07-c000.csv" />
+    <entry file="file://$PROJECT_DIR$/src/outputFile/part-00000-520b5c40-e9b3-4970-9936-4d30ab0d64d8-c000.csv" />
+    <entry file="file://$PROJECT_DIR$/src/outputFile/part-00000-439d2404-eda5-4b3e-bbb5-209b21ccc25d-c000.csv" />
+    <entry file="file://$PROJECT_DIR$/src/outputFile/part-00000-71581efa-f155-4d2e-8063-3d6f07f182f5-c000.csv" />
+    <entry file="file://$PROJECT_DIR$/src/outputFile/part-00000-7057068a-b113-4201-98e1-904113550967-c000.csv" />
+    <entry file="file://$PROJECT_DIR$/src/outputFile/part-00000-5330882b-4e7b-43c6-8ad7-c8b748d8033f-c000.csv" />
+    <entry file="file://$PROJECT_DIR$/src/outputFile/part-00000-0263246b-99d0-4d05-b7cb-7bb193b4a017-c000.csv" />
+    <entry file="file://$PROJECT_DIR$/src/outputFile/part-00000-88965ff8-7863-49c6-9946-45fb13048017-c000.csv" />
+    <entry file="file://$PROJECT_DIR$/src/outputFile/part-00000-f76a0ed7-03e9-4c16-8d67-a4150b362528-c000.csv" />
+    <entry file="file://$PROJECT_DIR$/src/outputFile/part-00000-f8800857-9813-496d-b91a-c9292e294afb-c000.csv" />
+    <entry file="file://$PROJECT_DIR$/src/outputFile/part-00000-d54b25a1-5ad2-4ef0-b582-65be32709a37-c000.csv" />
+    <entry file="file://$PROJECT_DIR$/src/outputFile/part-00000-973364a8-f44e-4df5-9d0e-21e2b561503c-c000.csv" />
+    <entry file="file://$PROJECT_DIR$/src/outputFile/part-00000-fa319d76-0dea-4ae0-9414-f2de1a902f1a-c000.csv" />
+    <entry file="file://$PROJECT_DIR$/src/outputFile/part-00000-0b5fea0d-a1e9-474c-a4df-064daa184f5f-c000.csv" />
+    <entry file="file://$PROJECT_DIR$/derby.log">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/scala/scriptFile.scala" />
+    <entry file="file://$PROJECT_DIR$/scriptFile.scala" />
+    <entry file="file://$PROJECT_DIR$/src/main/conf/scriptFile.scala" />
+    <entry file="file://$PROJECT_DIR$/src/main/conf/core-site.xml" />
+    <entry file="file://$PROJECT_DIR$/src/main/conf/hive-site.xml" />
+    <entry file="file://$PROJECT_DIR$/spark-warehouse/nbarecords/part-00000-16769514-e919-4460-86d0-664ff0c3712f-c000" />
+    <entry file="file://$PROJECT_DIR$/spark-warehouse/nbarecords/.part-00000-0c3fb451-ec10-4513-a852-c1fb913ee30a-c000.crc" />
+    <entry file="file://$PROJECT_DIR$/spark-warehouse/nbarecords/part-00000-0c3fb451-ec10-4513-a852-c1fb913ee30a-c000" />
+    <entry file="file://$PROJECT_DIR$/spark-warehouse/currydurant/part-00000-48776ca4-6e0d-44e5-bae2-77702f414f0d-c000">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/conf/core-site">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="96">
+          <caret line="4" column="14" selection-start-line="4" selection-start-column="14" selection-end-line="4" selection-end-column="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/conf/hdfs-site">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="3000">
+          <caret line="125" column="16" selection-start-line="125" selection-start-column="16" selection-end-line="125" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/conf/hive-site">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1188">
+          <caret line="57" selection-start-line="57" selection-end-line="57" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/build.sbt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="61">
+          <caret line="28" selection-start-line="28" selection-end-line="28" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/scala/KafkaStream.scala">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="339">
+          <caret line="39" lean-forward="true" selection-start-line="39" selection-end-line="39" />
+          <folding>
+            <element signature="e#1#56#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ArtifactsStructureConfigurable.UI">
+        <settings>
+          <artifact-editor />
+          <last-edited>KafkaSparkStreaming:jar</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+                <option value="0.5" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="FacetStructureConfigurable.UI">
+        <settings>
+          <last-edited>No facets are configured</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="GlobalLibrariesConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="JdkListConfigurable.UI">
+        <settings>
+          <last-edited>1.8</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ModuleStructureConfigurable.UI">
+        <settings>
+          <last-edited>KafkaSparkStreaming-build</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectLibrariesConfigurable.UI">
+        <settings>
+          <last-edited>sbt: aopalliance:aopalliance:1.0:jar</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>

@@ -1,0 +1,13 @@
+----------------------------------------------------------------
+Tue May 11 08:16:16 PDT 2021:
+Booting Derby version The Apache Software Foundation - Apache Derby - 10.12.1.1 - (1704137): instance a816c00e-0179-5c00-0847-00000c0feab0 
+on database directory /home/cloudera/IdeaProjects/KafkaSparkStreaming/metastore_db with class loader org.apache.spark.sql.hive.client.IsolatedClientLoader$$anon$1@7dc1590f 
+Loaded from file:/home/cloudera/.cache/coursier/v1/https/repo1.maven.org/maven2/org/apache/derby/derby/10.12.1.1/derby-10.12.1.1.jar
+java.vendor=Oracle Corporation
+java.runtime.version=1.8.0_181-b13
+user.dir=/home/cloudera/IdeaProjects/KafkaSparkStreaming
+os.name=Linux
+os.arch=amd64
+os.version=2.6.32-573.el6.x86_64
+derby.system.home=null
+Database Class Loader started - derby.database.classpath=''

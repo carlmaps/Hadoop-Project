@@ -1,0 +1,7 @@
+[0m[[0m[0mdebug[0m] [0m[0mPackaging /home/cloudera/IdeaProjects/KafkaSparkStreaming/target/scala-2.12/kafkasparkstreaming_2.12-0.1.jar ...[0m
+[0m[[0m[0mdebug[0m] [0m[0mInput file mappings:[0m
+[0m[[0m[0mdebug[0m] [0m[0m	KafkaStream.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /home/cloudera/IdeaProjects/KafkaSparkStreaming/target/scala-2.12/classes/KafkaStream.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	KafkaStream$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /home/cloudera/IdeaProjects/KafkaSparkStreaming/target/scala-2.12/classes/KafkaStream$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0mDone packaging.[0m
