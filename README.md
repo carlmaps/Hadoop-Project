@@ -1,7 +1,7 @@
 # Hadoop-Project
 
-This project has two parts.
-Part 1: NBARecordPublisher - This code read a csv file line by line and published the records in the csv to Kafka
+This project has two parts. <br>
+Part 1: NBARecordPublisher - This code read a csv file line by line and published the records in the csv to Kafka <br>
 Part 2: KafkaSparkStreaming - This code will subscribe to a Kafka topic and read the data from the Kafka and store the data to Hive
 
 ## Technology Stack
